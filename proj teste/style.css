@@ -5,7 +5,7 @@ html, body{
 nav{
     background-color: rgb(4, 23, 49); 
     padding: 10px;
-    color: white;
+    color: blue;
     font-size: x-large;
     font-family: Sixtyfour Convergence
 
@@ -40,7 +40,7 @@ tr:nth-child(even){
     background-color: #ddd;
 }
 th{
-    color: rgb(255, 3, 58);
+    color: rgb(230, 127, 149);
 }
 tr:nth-child(even){
     background-color: #f2f2f2
@@ -49,7 +49,7 @@ tr:nth-child(odd){
     background-color: #f2f2f2;
 }
 button:hover{
-    background-color: rgba(255, 3, 58, 0.644);
+    background-color: rgba(207, 48, 83, 0.644);
 }
 
   
